@@ -80,7 +80,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
 />
-<img width="12" />
+<img width="12" /><br/>
 <img 
     align="center" 
     alt="Redis"
@@ -143,7 +143,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
-<img width="12" />
+<img width="12" /><br/>
 <img 
     align="center" 
     alt="Symfony" 
