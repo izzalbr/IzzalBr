@@ -192,7 +192,6 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=izzalBr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="center" 
       alt="GitHub Stats" 
