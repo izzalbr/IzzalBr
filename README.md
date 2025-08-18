@@ -188,14 +188,14 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
   <img 
     align="center" 
     alt="GitHub Stats" 
-    height="150" 
+    height="200" 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=izzalBr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 <img 
       align="center" 
       alt="GitHub Stats" 
-      height="150" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzalBr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
