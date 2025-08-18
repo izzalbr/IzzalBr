@@ -184,7 +184,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
 
 ### 📊 Estatísticas
 
-<p>
+<div style="display: inline-block">
   <img 
     align="center" 
     alt="GitHub Stats" 
@@ -200,4 +200,4 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzalBr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</div>
