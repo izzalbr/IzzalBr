@@ -26,6 +26,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+<img width="12" />
 <img 
     align="center" 
     alt="CSS" 
@@ -34,6 +35,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+<img width="12" />
 <img 
     align="center" 
     alt="JavaScript" 
@@ -42,6 +44,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img width="12" />
 <img 
     align="center" 
     alt="TypeScript"
@@ -58,6 +61,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
+<img width="12" />
 <img 
     align="center" 
     alt="PostGree"
@@ -66,6 +70,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
+<img width="12" />
 <img 
     align="center" 
     alt="SqlServer"
@@ -82,6 +87,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" 
 />
+<img width="12" />
 <img 
     align="center" 
     alt="Node.js" 
@@ -90,6 +96,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
 />
+<img width="12" />
 <img 
     align="center" 
     alt="Bootstrap"
@@ -98,6 +105,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+<img width="12" />
 <img 
     align="center" 
     alt="Tailwind" 
@@ -106,6 +114,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+<img width="12" />
 <img 
     align="center" 
     alt="SASS" 
@@ -114,6 +123,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
+<img width="12" />
 <img 
     align="center" 
     alt="PHP" 
@@ -130,6 +140,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
+<img width="12" />
 <img 
     align="center" 
     alt="Symfony" 
@@ -138,6 +149,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" 
 />
+<img width="12" />
 <img 
     align="center" 
     alt="JQuery" 
@@ -146,6 +158,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
+<img width="12" />
 <img 
     align="center" 
     alt="Git" 
@@ -154,6 +167,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img width="12" />
 <img 
     align="center" 
     alt="Python" 
@@ -162,6 +176,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img width="12" />
 <img 
     align="center" 
     alt="Json" 
@@ -170,6 +185,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" 
 />
+<img width="12" />
 <img 
     align="center" 
     alt="FastApi" 
@@ -184,7 +200,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
 
 ### 📊 Estatísticas
 
-<div align="center">
+<div align="center" style=""line-height: 3.5;">
   <img 
     align="center" 
     alt="GitHub Stats" 
