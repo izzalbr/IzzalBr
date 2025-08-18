@@ -17,7 +17,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-<div style="display: inline-block; line-height: 5; aling:center;" > <br/>
+<div style="display: inline-block; line-height: 5;" align="center"  > <br/>
 <img 
     align="center" 
     alt="HTML"
