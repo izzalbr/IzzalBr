@@ -52,7 +52,32 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>         
+<img 
+    align="left" 
+    alt="PostGree"
+    title="PostGree" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
+<img 
+    align="left" 
+    alt="SqlServer"
+    title="SqlServer" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Redis"
+    title="Redis" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" 
+/>
+
 <img 
     align="left" 
     alt="Next.js" 
