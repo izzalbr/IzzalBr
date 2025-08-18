@@ -17,7 +17,7 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
     alt="HTML"
     title="HTML" 
     width="40px" 
-    style="padding-right: 10px; padding-bottom: 10px;" 
+    style="padding-right: 100px; margin-bottom: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -78,8 +78,8 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Node.js" 
+    title="Node.js"
     width="40px" 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
@@ -126,8 +126,8 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="Symfony" 
+    title="Symfony"
     width="40px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" 
@@ -158,8 +158,8 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Json" 
+    title="Json"
     width="40px" 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" 
@@ -167,8 +167,8 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="FastApi" 
+    title="FastApi"
     width="40px" 
     style="padding-right: 10px; padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" 
