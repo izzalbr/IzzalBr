@@ -215,6 +215,6 @@ Sempre aberto a novas conexões, ideias e oportunidades que me ajudem a evoluir 
       align="center" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzalBr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzalBr&theme=tokyonight&layout=compact&custom_title=Tecnologia&langs_count=9" 
   />
 </div>
